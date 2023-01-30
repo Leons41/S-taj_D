@@ -1,6 +1,6 @@
 # _SMG TRADE_
 ## HTML5 bootstrap kullanılarak SMG TRADE (E-ticaret) sitesinin Navbar'ı üzerinde çalışma yapıldı. 
-### Alt tarafta sırası ile kaynak kodları ve Navbar ekran görüntüsü  bulunmakta.
+### Alt tarafta sırası ile kaynak `kod`'ları ve navbar ekran görüntüsü  bulunmakta.
 ---
 >__KAYNAK`KOD`:__
 
