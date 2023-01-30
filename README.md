@@ -1,6 +1,6 @@
 # _SMG TRADE_
 ## HTML5 bootstrap kullanılarak SMG TRADE (E-ticaret) sitesinin Navbar'ı üzerinde çalışma yapıldı. 
-### Alt tarafta sırası ile kaynak kodları bulunmakta.
+### Alt tarafta sırası ile kaynak kodları ve Navbar ekran görüntüsü  bulunmakta.
 ---
 >_KAYNAK`KOD`:_
 
@@ -43,3 +43,6 @@
     </nav>
 
 ```
+---
+>_Ekran görüntüsü:_
+![Ekran görüntüsü_20230130_184934](https://user-images.githubusercontent.com/97148793/215525661-72a091cf-ea19-4f8e-8204-d1c1b71443bb.png)
