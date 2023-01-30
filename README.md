@@ -4,11 +4,10 @@
 *Kaynak`KOD`*:
 
 ```html5
-<nav class="navbar navbar-expand-sm navbar-dark bg-success sticky-top fw-bolder mb-4">
+ <nav class="navbar navbar-expand-sm navbar-dark bg-success sticky-top fw-bolder mb-4">
       <div class="container-fluid">
         <a class="navbar-brand" href="javascript:void(0)">SMG TRADE</a>
-        <button class="navbar-toggler" type="button"
-           data-bs-toggle="collapse" data-bs-target="#mynavbar">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="mynavbar">
@@ -31,12 +30,15 @@
           </ul>
           <form class="d-flex">
               <button type="button" class="btn btn-lg btn-sm text-light fw-bolder">
-                  <i class="material-icons" style="font-size:15px; color:rgb(255, 251, 251); ">shopping_cart</i> Sepetim 
-            <button type="button" class="btn btn-lg btn-sm text-light fw-bolder">             
+                  <i class="material-icons" style="font-size:15px; color:rgb(255, 251, 251); ">shopping_cart</i> Sepetim
+               
+            <button type="button" class="btn btn-lg btn-sm text-light fw-bolder">
+             
                <i class="material-icons"style="font-size:15px; color: rgb(255, 251, 251); ">https</i> Admin
-         </form> 
-         </div>      
-         </div>    
-         </nav>
+         </form>
+            
+        </div>
+      </div>
+    </nav>
 
 ```
