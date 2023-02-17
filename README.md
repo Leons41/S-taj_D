@@ -100,5 +100,5 @@
 ---
 >__Ekran görüntüsü:__
 
-![Ekran görüntüsü_20230130_184934](https://user-images.githubusercontent.com/97148793/215525661-72a091cf-ea19-4f8e-8204-d1c1b71443bb.png)
+![1](https://user-images.githubusercontent.com/97148793/219608981-c44c944d-7bce-4963-a454-5f94e78ef3e1.png)
 
