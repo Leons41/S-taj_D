@@ -48,6 +48,7 @@
 
 ![Ekran görüntüsü_20230130_184934](https://user-images.githubusercontent.com/97148793/215525661-72a091cf-ea19-4f8e-8204-d1c1b71443bb.png)
 ---
+---
 ## HTML5 bootstrap kullanılarak SMG TRADE (E-ticaret) sitesinin Carousel'ı üzerinde çalışma yapıldı. 
 ### Alt tarafta sırası ile kaynak `kod`'ları ve navbar ekran görüntüsü  bulunmakta.
 ---
