@@ -50,7 +50,7 @@
 ---
 ---
 ## HTML5 bootstrap kullanılarak SMG TRADE (E-ticaret) sitesinin Carousel'ı üzerinde çalışma yapıldı. 
-### Alt tarafta sırası ile kaynak `kod`'ları ve navbar ekran görüntüsü  bulunmakta.
+### Alt tarafta sırası ile kaynak `kod`'ları ve carousel ekran görüntüsü  bulunmakta.
 ---
 >__KAYNAK`KOD`:__
 
