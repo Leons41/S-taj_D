@@ -233,3 +233,42 @@
 
 ![footer-using-bootstrap-4](https://user-images.githubusercontent.com/97148793/224566706-e8274abc-5b7e-4c96-bc04-83f681ea0d50.png)
 
+
+---
+---
+## HTML5 bootstrap kullanılarak SMG TRADE (E-ticaret) sitesinin cart'ın üzerinde çalışma yapıldı. 
+### Alt tarafta sırası ile kaynak `kod`'ları ve  cart'ın ekran görüntüsü  bulunmakta.
+---
+>__KAYNAK`KOD`:__
+
+```html5
+     
+        <div class="col-sm-4 mb-5 mt-3">
+  <div class="container-fluid" >      
+            <div class="card-sl">
+                <div class="card-image">
+                    <img
+                        src="https://images.pexels.com/photos/1149831/pexels-photo-1149831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" />
+                </div>
+                <div class="card-heading">
+                    Audi Q8
+                </div>
+                <div class="card-text">
+                    Audi Q8 is a full-size luxury crossover SUV coupé made by Audi that was launched in 2018.
+                </div>
+                <div class="card-text">
+                    $67,400
+                </div>
+                <a href="#" class="card-button"> Purchase</a>
+            </div>
+        </div> 
+</div>
+
+```
+---
+>__Ekran görüntüsü:__
+
+
+![resim](https://user-images.githubusercontent.com/97148793/229086815-32cd8878-7967-47e8-be40-f5decce2ae8b.png)
+
+
