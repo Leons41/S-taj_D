@@ -325,5 +325,9 @@
 
 ![12222](https://user-images.githubusercontent.com/97148793/230498913-54c5ad18-971a-463a-9d5b-14ac1e53f536.png)
 
-
+---
+---
+## HTML5 bootstrap kullanılarak yapmış olduğum sitenin kaynak  `kod  `dosyaları çalışır vaziyete https://github.com/Leons41/S-taj_D link'inde bulunmakta.
+### Tasarım bitiğinden dolayı devam eden kısımda  `C#  entity framework` kullanarak veri tabanı kısmına geçeceğim.
+---
 
