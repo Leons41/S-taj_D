@@ -327,7 +327,7 @@
 
 ---
 ---
-## HTML5 bootstrap kullanılarak yapmış olduğum sitenin kaynak  `kod `dosyaları çalışır vaziyete https://github.com/Leons41/S-taj_D link'inde bulunmakta.
-### Tasarım bitiğinden dolayı devam eden kısımda  `C# entity framework` kullanarak veri tabanı kısmına geçeceğim.
+### HTML5 bootstrap kullanılarak yapmış olduğum sitenin kaynak  `kod `dosyaları çalışır vaziyete https://github.com/Leons41/S-taj_D link'inde bulunmakta.
+#### Tasarım bitiğinden dolayı devam eden kısımda  `C# entity framework` kullanarak veri tabanı kısmına geçeceğim.
 ---
 
