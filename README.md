@@ -272,3 +272,58 @@
 ![resim](https://user-images.githubusercontent.com/97148793/229086815-32cd8878-7967-47e8-be40-f5decce2ae8b.png)
 
 
+
+---
+---
+## HTML5 bootstrap kullanılarak SMG TRADE (E-ticaret) sitesinin kategori menüsü  üzerinde çalışma yapıldı. 
+### Alt tarafta sırası ile kaynak `kod`'ları ve  kategori menüsü ekran görüntüsü  bulunmakta.
+---
+>__KAYNAK`KOD`:__
+
+```html5
+     
+       <div class="list-group">
+            <a href="#" class="list-group-item bg-success list-group-item-action active">
+              kategori
+            </a>
+            <a href="#" class="list-group-item list-group-item-action">Dapibus ac facilisis in</a>
+            <a href="#" class="list-group-item list-group-item-action">Morbi leo risus</a>
+            <a href="#" class="list-group-item list-group-item-action">Porta ac consectetur ac</a>
+            <a href="#" class="list-group-item list-group-item-action ">Vestibulum at eros</a>
+            <a href="#" class="list-group-item list-group-item-action ">Vestibulum at eros</a>
+            <a href="#" class="list-group-item list-group-item-action ">Vestibulum at eros</a>
+            <a href="#" class="list-group-item list-group-item-action ">Vestibulum at eros</a>
+            <a href="#" class="list-group-item list-group-item-action ">Vestibulum at eros</a>
+          </div>
+```
+---
+>__Ekran görüntüsü:__
+
+![1111111](https://user-images.githubusercontent.com/97148793/230497567-5af23113-b36a-49e9-bc36-b64fff0c975f.png)
+
+
+
+---
+---
+## HTML5 bootstrap kullanılarak SMG TRADE (E-ticaret) sitesinin misyonumuz sayfası  üzerinde çalışma yapıldı. Üst menü ve footer aynı olup boody'ye yazı metini gurubu eklendi.
+### Alt tarafta sırası ile kaynak `kod`'ları ve yazı metini gurubu  ekran görüntüsü  bulunmakta.
+---
+>__KAYNAK`KOD`:__
+
+```html5
+     
+      <div class="mt-4 p-5 bg-success bg-opacity-50 text-dark rounded mb-5 mt-5">
+        <h1>SMG TRADE</h1>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste inventore atque ipsa nam dolorum tempore cum? Vitae aut id asperiores fuga quibusdam, porro veritatis ipsum culpa, aliquid impedit corrupti dolorem.</p>
+      </div> 
+```
+---
+>__Ekran görüntüsü:__
+
+
+
+
+![12222](https://user-images.githubusercontent.com/97148793/230498913-54c5ad18-971a-463a-9d5b-14ac1e53f536.png)
+
+
+
